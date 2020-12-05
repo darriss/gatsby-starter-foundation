@@ -10,8 +10,6 @@ title: Experience
 ---
 
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
-
 Resume
 This following shows my most recent computer science work and projects.
 
