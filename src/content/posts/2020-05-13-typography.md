@@ -9,4 +9,4 @@ description: metaphorically make a deal with the devil
 
 In this photo I photoshopped burgers as sprinkles on a donut!
 
-http://fmhs-projects.net/Zombies/zombiegame.html
+[Zombie Game](http://fmhs-projects.net/Zombies/zombiegame.html)

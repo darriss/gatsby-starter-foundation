@@ -7,13 +7,12 @@ title: Experience
 
 ![Toys](/assets/moroccoschool.JPG "Teaching English to students in Zaouiat Ahansal, Morocco")
 
-Resume
-This following shows my most recent computer science work and projects.
 
-### Education
+
+## Education
 **Allegheny College**, Meadville, PA Expected Graduation May 2021 BS Degree: Integrative Informatics and International Studies GPA: 3.52/4.00
 
-### Awards
+## Awards
 Outstanding Integrative Informatics Junior Prize for 2019* 2020 Wayne Merrick Scholarship in International Studies for 2019* 2020
 
 ## Experience
@@ -39,7 +38,6 @@ Outstanding Integrative Informatics Junior Prize for 2019* 2020 Wayne Merrick Sc
  * Write up the minutes for all BGM board meetings
  * Facilitate general body meetings and help lead discussions
 
-GitHubPortfolio *  My computer science games and projects throughout college https://github.com/darriss/Portfolio
-
 ## Skills
-Programming Languages: Java, HTML, CSS, JavaScript, Python; Computational Skills: Microsoft Word, Excel, and PowerPoint; Languages: Arabic (Beginner), Spanish (Intermediate
+**Programming Languages:** Java, HTML, CSS, JavaScript, Python;
+**Computational Skills:** Microsoft Word, Excel, and PowerPoint; Languages: Arabic (Beginner), Spanish (Intermediate
