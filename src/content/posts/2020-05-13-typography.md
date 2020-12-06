@@ -3,7 +3,7 @@ title: Zombie Runner Game
 template: blog-post
 date: 2020-05-13 09:19
 slug: /typography
-featuredImage: /assets/zombie.PNG
+featuredImage: /assets/zombietwo.png
 description: metaphorically make a deal with the devil
 ---
 
