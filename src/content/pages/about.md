@@ -1,8 +1,8 @@
-* * *
-template: about* page
+---
+template: about-page
 slug: /about
 title: Experience
-* * *
+---
 
 
 ![Toys](/assets/moroccoschool.JPG "Teaching English to students in Zaouiat Ahansal, Morocco")
