@@ -6,12 +6,14 @@ date: 2020-05-13 12:46
 description: sdasd
 featuredImage: /assets/strongdesert.jpg
 ---
-Growing up in New York City has provided me with continuous opportunities to serve my community, explore different cultures, and de-escalate conflicts amongst strangers of diverse backgrounds. I consider New York City to be a cultural melting pot, an environment where community service is ingrained daily, different languages can be heard on every block and globalization is present on every corner. As a product of my culturally fluid environment, I began to prioritize and value cultural diversity and civic engagement in my life. The possibility of serving a community in another country, becoming immersed in culture, traditions, and practices other than those that I encountered previously
+### Why Morocco?
+
+Growing up in New York City has provided me with continuous opportunities to serve my community, explore different cultures, and de-escalate conflicts amongst strangers of diverse backgrounds. I consider New York City to be a cultural melting pot, an environment where community service is ingrained daily, different languages can be heard on every block and globalization is present on every corner. As a product of my culturally fluid environment, I began to prioritize and value cultural diversity and civic engagement in my life. This is why I jumped at the possibility of studying in another country, becoming immersed in culture, traditions, and practices other than those that I encountered previously.
+
+Being an International Studies major, my focus is in the Middle East and Northern African region, making Morocco the ideal country for my area of study. One reason I specifically wanted to study abroad in Morocco is because Arabic is one of the main languages spoken there. I wanted my Arabic to become more advanced which seemed more likely if I were to take it in an Arabic speaking country and speak with people in Arabic on a regular basis. Another benefit of studying abroad in Morocco was the opportunity to learn the history, culture, economic, and political systems of MENA countries from a North African viewpoint.
 
 ![Royal Mail](/assets/rocksit.JPG "The Ruins near Fez, Morocco")
 
-
-### What I Did Abroad
 
 **Exchange Student at Al Akhawayn University in Ifrane**
 * *Took courses at AUI such as Women in Economic Development and Intermediate Arabic*

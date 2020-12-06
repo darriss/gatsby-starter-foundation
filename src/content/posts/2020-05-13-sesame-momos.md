@@ -4,7 +4,7 @@ title: Zombie Runner Game
 slug: /sesame-momos
 date: 2020-05-13 12:47
 description: Sesame Momos
-featuredImage: /assets/zombietwo.png
+featuredImage: /assets/MinecraftZombieimage.jpg
 ---
 
 I created this runner game in my last year of high school. At the time I was very
