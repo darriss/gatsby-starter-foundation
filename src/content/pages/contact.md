@@ -1,12 +1,9 @@
 ---
 template: contact-page
 slug: /contact
-title: Experience
+title: Goals
 ---
 ---
-template: about-page
-slug: /about
-title: Experience
 ---
 
 
