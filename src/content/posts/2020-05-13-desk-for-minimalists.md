@@ -6,31 +6,20 @@ date: 2020-05-13 12:46
 description: sdasd
 featuredImage: /assets/strongdesert.jpg
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+Growing up in New York City has provided me with continuous opportunities to serve my community, explore different cultures, and de-escalate conflicts amongst strangers of diverse backgrounds. I consider New York City to be a cultural melting pot, an environment where community service is ingrained daily, different languages can be heard on every block and globalization is present on every corner. As a product of my culturally fluid environment, I began to prioritize and value cultural diversity and civic engagement in my life. The possibility of serving a community in another country, becoming immersed in culture, traditions, and practices other than those that I encountered previously
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
+![Royal Mail](/assets/rocksit.JPG "The Ruins near Fez, Morocco")
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
 
-## It doesn't look so shiny to me.
+### What I Did Abroad
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+**Exchange Student at Al Akhawayn University in Ifrane**
+* *Took courses at AUI such as Women in Economic Development and Intermediate Arabic*
+* *Travelled to rural villages and conducted interviews with residents*
+* *Learned the Moroccan dialect “Derija” and French*
 
 ![]()
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+## My Study Abroad Experience
 
-### Daylight and everything.
-
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
-
-* Fry! Stay back! He's too powerful!
-* Look, last night was a mistake.
-* Please, Don-Bot… look into your hard drive, and open your mercy file!
-
-Exchange Student, Al Akhawayn University, Ifrane, Morocco August 2019* December 2019
-* Took courses at AUI such as Women in Economic Development and Intermediate Arabic
-* Travelled to rural villages and conducted interviews with residents
-* Learned the Moroccan dialect “Derija” and French
+Studying in Morocco provided me with a non-Western perspective on a multitude of global issues. My experience in Morocco, as well as the languages I learned in the US (Spanish and Arabic) has helped me to see through a transnational lens that could be beneficial to my time in the Peace Corps. Studying abroad along with my work experience has prepared me for the challenges that come with serving. While I was in Morocco I learned to cope with homesickness while adapting to Moroccan culture, Islamic law, a new diet, as well as a huge language barrier. I still managed to travel throughout Morocco, conduct interviews with women in rural villages and soak up a breadth of knowledge on Arab traditions. I embraced foods, cultures, languages and ideologies I have never been exposed to while also rolling with the punches of attracting unwanted attention and getting harassed. Living in Morocco gave me the motivation to commit to a long term goal of mine, which is to educate young girls around the world so they have more career options, while also respecting their culture and religious practices.
