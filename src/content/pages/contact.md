@@ -1,12 +1,14 @@
 ---
 template: contact-page
 slug: /contact
-title: Goals
+title: Contact
 ---
 ---
 ---
 
 
+Resume
+This following shows my most recent computer science work and projects.
 
 EDUCATION
 Allegheny College, Meadville, PA Expected Graduation May 2021 BS Degree: Integrative Informatics and International Studies GPA: 3.52/4.00
