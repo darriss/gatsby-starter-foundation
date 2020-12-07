@@ -2,7 +2,7 @@
 template: blog-post
 title: Study Abroad
 slug: /minimalists-desk
-date: 2020-05-13 12:46
+date: 2019-08-20 12:46
 description: sdasd
 featuredImage: /assets/strongdesert.jpg
 ---
