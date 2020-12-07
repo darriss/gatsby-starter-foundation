@@ -13,7 +13,8 @@ title: Experience
 **Allegheny College**, Meadville, PA Expected Graduation May 2021 BS Degree: Integrative Informatics and International Studies GPA: 3.52/4.00
 
 ## Awards
-Outstanding Integrative Informatics Junior Prize for 2019* 2020 Wayne Merrick Scholarship in International Studies for 2019* 2020
+Outstanding Integrative Informatics Junior Prize for 2019-2020
+Wayne Merrick Scholarship in International Studies for 2019-2020
 
 ## Experience
 
@@ -40,4 +41,5 @@ Outstanding Integrative Informatics Junior Prize for 2019* 2020 Wayne Merrick Sc
 
 ## Skills
 **Programming Languages:** Java, HTML, CSS, JavaScript, Python;
+
 **Computational Skills:** Microsoft Word, Excel, and PowerPoint; Languages: Arabic (Beginner), Spanish (Intermediate)
