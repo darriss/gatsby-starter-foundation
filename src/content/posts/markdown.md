@@ -8,6 +8,6 @@ featuredImage: /assets/linkedin.png
 
 ## Overview
 
-### Philosophy
+My LinkedIn is below:
 
 [LinkedIn Profile](https://www.linkedin.com/in/samantha-d-)

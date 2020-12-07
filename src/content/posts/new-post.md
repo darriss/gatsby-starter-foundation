@@ -4,7 +4,7 @@ title: Video Projects
 slug: /new-post
 date: 2020-05-09T05:53:16.102Z
 description: Neon
-featuredImage: /assets/video3.png
+featuredImage: /assets/video4.png
 ---
 These are some videos I created during the past semester:
 
@@ -12,11 +12,4 @@ These are some videos I created during the past semester:
 
 
 
-![]()
-![]()
-![]()
-![]()
-
-
-
-[Pro Life?](https://youtu.be/uguphpXK1fc )
+[How to Vote Early](https://drive.google.com/file/d/1nc4afypmdujLY5D6uphz35lWFCTbbRT2/view?usp=sharing)
