@@ -14,4 +14,3 @@ These are some videos I created during the past semester:
 ![]()
 ![]()
 [Pro Life?](https://youtu.be/uguphpXK1fc )
-![Royal Mail](/assets/aclu.jpg "ACLU Celebration")
