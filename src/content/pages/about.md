@@ -40,4 +40,4 @@ Outstanding Integrative Informatics Junior Prize for 2019* 2020 Wayne Merrick Sc
 
 ## Skills
 **Programming Languages:** Java, HTML, CSS, JavaScript, Python;
-**Computational Skills:** Microsoft Word, Excel, and PowerPoint; Languages: Arabic (Beginner), Spanish (Intermediate
+**Computational Skills:** Microsoft Word, Excel, and PowerPoint; Languages: Arabic (Beginner), Spanish (Intermediate)
