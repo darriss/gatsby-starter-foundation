@@ -8,7 +8,15 @@ featuredImage: /assets/video3.png
 ---
 These are some videos I created during the past semester:
 
-<iframe src="https://youtu.be/bMkKR9pxvmA" width="600" height="400"></iframe>
+[Black Women in College](https://youtu.be/bMkKR9pxvmA)
 
 
-<iframe src="https://youtu.be/uguphpXK1fc" width="600" height="400"></iframe>
+
+![]()
+![]()
+![]()
+![]()
+
+
+
+[Pro Life?](https://youtu.be/uguphpXK1fc )
