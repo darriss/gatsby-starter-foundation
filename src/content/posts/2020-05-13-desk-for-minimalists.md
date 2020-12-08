@@ -12,7 +12,7 @@ Growing up in New York City has provided me with continuous opportunities to ser
 
 Being an International Studies major, my focus is in the Middle East and Northern African region, making Morocco the ideal country for my area of study. One reason I specifically wanted to study abroad in Morocco is because Arabic is one of the main languages spoken there. I wanted my Arabic to become more advanced which seemed more likely if I were to take it in an Arabic speaking country and speak with people in Arabic on a regular basis. Another benefit of studying abroad in Morocco was the opportunity to learn the history, culture, economic, and political systems of MENA countries from a North African viewpoint.
 
-![Royal Mail](/assets/rocksit.JPG "The Ruins near Fez, Morocco")
+![Royal Mail](/assets/moroccoschool.JPG "Teaching English to students in Zaouiat Ahansal, Morocco")
 
 
 **Exchange Student at Al Akhawayn University in Ifrane**
