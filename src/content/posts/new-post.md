@@ -4,7 +4,7 @@ title: Video Projects
 slug: /new-post
 date: 2020-05-09T05:53:16.102Z
 description: Neon
-featuredImage: /assets/videoicon.png
+featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg
 ---
 These are some videos I created during the past semester:
 
