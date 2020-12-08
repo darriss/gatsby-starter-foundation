@@ -7,7 +7,8 @@ title: Experience
 ![Toys](/assets/moroccoschool.JPG "Teaching English to students in Zaouiat Ahansal, Morocco")
 
 
-
+![Toys](/assets/pageone.png)
+![Toys](/assets/page2.png)
 ## Education
 **Allegheny College**, Meadville, PA Expected Graduation May 2021 BS Degree: Integrative Informatics and International Studies GPA: 3.52/4.00
 
