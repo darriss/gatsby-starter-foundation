@@ -15,11 +15,6 @@ Being an International Studies major, my focus is in the Middle East and Norther
 ![Royal Mail](/assets/moroccoschool.JPG "Teaching English to students in Zaouiat Ahansal, Morocco")
 
 
-**Exchange Student at Al Akhawayn University in Ifrane**
-* *Took courses at AUI such as Women in Economic Development and Intermediate Arabic*
-* *Travelled to rural villages and conducted interviews with residents*
-* *Learned the Moroccan dialect “Derija” and French*
-
 ![]()
 
 ## My Study Abroad Experience
